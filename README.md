@@ -84,3 +84,7 @@ npm run dev
 - Add authentication if the app needs per-user lists.
 - Make the list update via WebSockets for true real-time updates.
 
+**Video Link**
+
+- [Loom Video](https://www.loom.com/share/0a7fe9929f0d40b28a4cf809a8798cda)
+
